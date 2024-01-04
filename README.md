@@ -1,2 +1,2 @@
 # frontend
-I developed responsive job portal using HTML ,CSS, Javascript.
+I developed online responsive job web portal using HTML ,CSS, and Javascript.
